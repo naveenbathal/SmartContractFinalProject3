@@ -7,7 +7,7 @@
 > Used following functions to achieve desired goals
 
 * [addnewEmployee] - Add information of a empolyee such as Name, Address, age, position.
-* [transferSalary] -  can transfer salary.
+* [transferSalary] -  only owner can transfer salary.
 * [CallSalary] - Check balance.
 * [CallBonus] - Owner can give bonus.
 * [EmployeeSalary] - Can check employee salary by giving address.
